@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      },
+      "MySchoolBLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Model": "1.0.0",
+          "MySchoolDAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MySchoolBLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySchoolBLL.dll": {}
+        }
+      },
+      "MySchoolDAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MySchoolDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySchoolDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../../../17145217汤鲁斌/17145217汤鲁斌/Model/Model.csproj",
+      "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/Model/Model.csproj"
+    },
+    "MySchoolBLL/1.0.0": {
+      "type": "project",
+      "path": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolBLL/MySchoolBLL.csproj",
+      "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolBLL/MySchoolBLL.csproj"
+    },
+    "MySchoolDAL/1.0.0": {
+      "type": "project",
+      "path": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolDAL/MySchoolDAL.csproj",
+      "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolDAL/MySchoolDAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Model >= 1.0.0",
+      "MySchoolBLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj",
+      "projectName": "JWGL",
+      "projectPath": "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\github\\JWGL\\JWGL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
+              "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
+            },
+            "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
+              "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

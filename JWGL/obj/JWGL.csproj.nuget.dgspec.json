@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj",
+        "projectName": "MySchoolBLL",
+        "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
+                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
+              },
+              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj": {
+                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj",
+        "projectName": "MySchoolDAL",
+        "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
+                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj",
+        "projectName": "JWGL",
+        "projectPath": "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\github\\JWGL\\JWGL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
+                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
+              },
+              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
+                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

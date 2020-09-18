@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JWGL/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0",
+          "MySchoolBLL": "1.0.0"
+        },
+        "runtime": {
+          "JWGL.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "runtime": {
+          "Model.dll": {}
+        }
+      },
+      "MySchoolBLL/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0",
+          "MySchoolDAL": "1.0.0"
+        },
+        "runtime": {
+          "MySchoolBLL.dll": {}
+        }
+      },
+      "MySchoolDAL/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "MySchoolDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JWGL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySchoolBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySchoolDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
