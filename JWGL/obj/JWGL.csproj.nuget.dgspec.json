@@ -14,47 +14,6 @@
         "net45": {}
       }
     },
-    "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj",
-        "projectName": "MySchoolBLL",
-        "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj",
-        "frameworks": {
-          "net45": {
-            "projectReferences": {
-              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
-                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
-              },
-              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj": {
-                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net45": {}
-      }
-    },
-    "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj",
-        "projectName": "MySchoolDAL",
-        "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolDAL\\MySchoolDAL.csproj",
-        "frameworks": {
-          "net45": {
-            "projectReferences": {
-              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
-                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net45": {}
-      }
-    },
     "D:\\Desktop\\github\\JWGL\\JWGL\\JWGL.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -79,9 +38,6 @@
             "projectReferences": {
               "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
                 "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
-              },
-              "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
-                "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj"
               }
             }
           }

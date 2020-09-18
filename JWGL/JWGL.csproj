@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\17145217汤鲁斌\17145217汤鲁斌\Model\Model.csproj" />
-    <ProjectReference Include="..\..\..\17145217汤鲁斌\17145217汤鲁斌\MySchoolBLL\MySchoolBLL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -10,31 +10,6 @@
         "runtime": {
           "bin/placeholder/Model.dll": {}
         }
-      },
-      "MySchoolBLL/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Model": "1.0.0",
-          "MySchoolDAL": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MySchoolBLL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySchoolBLL.dll": {}
-        }
-      },
-      "MySchoolDAL/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MySchoolDAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MySchoolDAL.dll": {}
-        }
       }
     }
   },
@@ -43,22 +18,11 @@
       "type": "project",
       "path": "../../../17145217汤鲁斌/17145217汤鲁斌/Model/Model.csproj",
       "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/Model/Model.csproj"
-    },
-    "MySchoolBLL/1.0.0": {
-      "type": "project",
-      "path": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolBLL/MySchoolBLL.csproj",
-      "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolBLL/MySchoolBLL.csproj"
-    },
-    "MySchoolDAL/1.0.0": {
-      "type": "project",
-      "path": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolDAL/MySchoolDAL.csproj",
-      "msbuildProject": "../../../17145217汤鲁斌/17145217汤鲁斌/MySchoolDAL/MySchoolDAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Model >= 1.0.0",
-      "MySchoolBLL >= 1.0.0"
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -88,9 +52,6 @@
           "projectReferences": {
             "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj": {
               "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\Model\\Model.csproj"
-            },
-            "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj": {
-              "projectPath": "D:\\Desktop\\17145217汤鲁斌\\17145217汤鲁斌\\MySchoolBLL\\MySchoolBLL.csproj"
             }
           }
         }

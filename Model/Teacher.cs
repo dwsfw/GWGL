@@ -7,22 +7,22 @@ using System.Threading.Tasks;
 namespace Model
 {
     [Serializable]
-    public class Admin : Person
+    public class Teacher : Person
     {
-        static int admainID = 1;
-        public Admin(string name, string password)
+        static int TID = 1;
+        public Teacher(string name, string password)
             : base(name, password)
         {
-            admainID++;
+           TID++;
         }
         public override string GetNewID()
         {
-            string s = "A00" + admainID;
+            string s = "T00" + TID;
             return s;
         }
         public override string GetUserType()
         {
-            return "Admin";
+            return "Teacher";
         }
         public override string ToString()
         {

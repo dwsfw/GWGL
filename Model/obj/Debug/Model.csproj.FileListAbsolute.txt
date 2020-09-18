@@ -1,0 +1,26 @@
+c:\users\administrator\documents\visual studio 2013\Projects\17145217汤鲁斌\Model\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\17145217汤鲁斌\Model\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\17145217汤鲁斌\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\17145217汤鲁斌\Model\obj\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2013\Projects\17145217汤鲁斌\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\17145217汤鲁斌\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\17145217汤鲁斌\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.pdb
+C:\Users\DELL\Desktop\17145217汤鲁斌\Model\bin\Debug\Model.dll
+C:\Users\DELL\Desktop\17145217汤鲁斌\Model\bin\Debug\Model.pdb
+C:\Users\DELL\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.dll
+C:\Users\DELL\Desktop\17145217汤鲁斌\Model\obj\Debug\Model.pdb
+C:\Users\DELL\Desktop\ps\17145217汤鲁斌\Model\bin\Debug\Model.dll
+C:\Users\DELL\Desktop\ps\17145217汤鲁斌\Model\bin\Debug\Model.pdb
+C:\Users\DELL\Desktop\ps\17145217汤鲁斌\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\ps\17145217汤鲁斌\Model\obj\Debug\Model.dll
+C:\Users\DELL\Desktop\ps\17145217汤鲁斌\Model\obj\Debug\Model.pdb
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\bin\Debug\Model.dll
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\bin\Debug\Model.pdb
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\obj\Debug\Model.dll
+D:\Desktop\17145217汤鲁斌\17145217汤鲁斌\Model\obj\Debug\Model.pdb
